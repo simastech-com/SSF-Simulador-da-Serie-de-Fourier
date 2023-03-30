@@ -4,12 +4,7 @@ Projeto desenvolvido na disciplina de Processamento Digital de Sinais do 8º sem
 
 Também participaram deste projeto os alunos:
 
-Claudio Barbosa do Nascimento Neto
-David Allan dos Reis Borelli
-Guilherme da Silva Oliveira
-Jessiclei Ferreira Rodrigues
-William Cardoso Simas
-Tamiris Ayumi Aoe
+Claudio Barbosa do Nascimento Neto, David Allan dos Reis Borelli, Guilherme da Silva Oliveira, Jessiclei Ferreira Rodrigues, William Cardoso Simas, Tamiris Ayumi Aoe
 
 Abaixo, o funcionamento do sistema. Clique na imagem para assistir o vídeo.
 
